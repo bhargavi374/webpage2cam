@@ -34,7 +34,6 @@ nav{
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-    height: 600px;
     justify-content: center;
 }
 .travel1 ,.travel2 ,.travel3 ,.travel4 ,.travel5 ,.travel6 ,.travel7 ,.travel8 ,.travel9{
